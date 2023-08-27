@@ -1,0 +1,17 @@
+D:\messagingSignalR\published\messagingSignalR.exe
+D:\messagingSignalR\published\appsettings.Development.json
+D:\messagingSignalR\published\appsettings.json
+D:\messagingSignalR\published\libman.json
+D:\messagingSignalR\published\messagingSignalR.dll
+D:\messagingSignalR\published\messagingSignalR.deps.json
+D:\messagingSignalR\published\messagingSignalR.runtimeconfig.json
+D:\messagingSignalR\published\messagingSignalR.pdb
+D:\messagingSignalR\published\System.Web.Cors.dll
+D:\messagingSignalR\published\Microsoft.AspNet.SignalR.Core.dll
+D:\messagingSignalR\published\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\messagingSignalR\published\Microsoft.Owin.dll
+D:\messagingSignalR\published\Microsoft.Owin.Cors.dll
+D:\messagingSignalR\published\Microsoft.Owin.Host.SystemWeb.dll
+D:\messagingSignalR\published\Microsoft.Owin.Security.dll
+D:\messagingSignalR\published\Newtonsoft.Json.dll
+D:\messagingSignalR\published\Owin.dll
